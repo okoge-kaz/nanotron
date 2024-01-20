@@ -1,0 +1,16 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.1.2+cu121
+
+pyyaml
+numpy
+packaging
+
+# checkpoint
+safetensors
+
+dacite
+tqdm
+
+# HF
+transformers
+datasets
